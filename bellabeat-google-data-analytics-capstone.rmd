@@ -1,4 +1,3 @@
-# %% [code]
 ---
 title: "Bellabeat: Google Data Analytics Capstone"
 author: "Kati Kimble"
