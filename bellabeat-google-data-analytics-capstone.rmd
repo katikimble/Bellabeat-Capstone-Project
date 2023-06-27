@@ -2,7 +2,7 @@
 title: "Bellabeat: Google Data Analytics Capstone"
 author: "Kati Kimble"
 date: "2023-06-24"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ### R Markdown
